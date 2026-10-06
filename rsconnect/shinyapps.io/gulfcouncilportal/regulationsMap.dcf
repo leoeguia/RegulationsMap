@@ -1,0 +1,13 @@
+name: regulationsMap
+title: RegulationsMap
+username: gulfcouncilportal
+account: gulfcouncilportal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 190813
+bundleId: 12655388
+url: https://gulfcouncilportal.shinyapps.io/regulationsMap/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: GOM_Areas_Regulations_Combo.csv|GOM_Areas_Regulations_Combo_MasterTable_EM.xlsx|GOM_Areas_Regulations_Combo_v2.csv|GOM_Regs_All.csv|prep.OG.R|prep.R
